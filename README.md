@@ -70,7 +70,21 @@ The model uses a custom CNN architecture with the following components:
 - Fully connected layers for classification
 - GRAD-CAM for visualization
 
-## 📋 Requirements
+## � Performance Metrics
+
+The model achieves the following performance on the test set:
+
+| Metric      | Score   |
+|-------------|---------|
+| Loss        | 0.0483  |
+| Accuracy    | 98.61%  |
+| Precision  | 98.61%  |
+| Recall     | 98.61%  |
+| F1-Score   | 98.61%  |
+
+These results demonstrate the model's high accuracy in detecting and classifying metal surface defects.
+
+## �📋 Requirements
 
 - Python 3.8+
 - PyTorch 1.9+
