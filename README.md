@@ -32,7 +32,7 @@ The model is trained on the [NEU Metal Surface Defects Dataset](https://www.kagg
 - Image size: 200×200 pixels (grayscale)
 - Defect types: 6 classes
 
-## � Getting Started
+## 🚀 Getting Started
 
 This project is implemented in Jupyter notebooks. Simply open the following notebooks in your Jupyter environment:
 
@@ -70,7 +70,7 @@ The model uses a custom CNN architecture with the following components:
 - Fully connected layers for classification
 - GRAD-CAM for visualization
 
-## � Performance Metrics
+## ⚡ Performance Metrics
 
 The model achieves the following performance on the test set:
 
@@ -84,7 +84,7 @@ The model achieves the following performance on the test set:
 
 These results demonstrate the model's high accuracy in detecting and classifying metal surface defects.
 
-## �📋 Requirements
+## 📋 Requirements
 
 - Python 3.8+
 - PyTorch 1.9+
